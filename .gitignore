@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+amostras/.idea/modules.xml
+amostras/.idea/amostras.iml
+amostras/.idea/inspectionProfiles/profiles_settings.xml
+amostras/.idea/misc.xml
+amostras/.idea/workspace.xml
