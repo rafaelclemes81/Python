@@ -1,2 +1,2 @@
 # Python
- Repositório com exercícios feitos em Python
+ *Repositório* com exercícios feitos em **Python**
