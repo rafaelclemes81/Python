@@ -44,7 +44,7 @@ else:
 
 print(f'{" Cálculo de Folha de pagamento ":-^51}')
 print(f'{"Salário Bruto ":.<40} {bruto:>10.2f}')
-print(f"{'(-IR) ({percir}%)':.<40}{ir:>10.2f}")
+print(f'{"(-IR) ({percir}%)":.<40}{ir:>10.2f}')
 print(f'{"(-Sindicato) (3%)":.<40}{sindicato:>10.2f}')
 print(f'{"FGTS (11%)":.<40}{fgts:>10.2f}')
 print(f'{"(-INSS) (10%)":.<40}{inss:>10.2f}')
