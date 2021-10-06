@@ -36,3 +36,4 @@ media = soma / len(notas)
 
 if 9<= media <=10:
     cabecalho('Resultado do Aluno', 30)
+
