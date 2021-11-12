@@ -1,6 +1,5 @@
 from tkinter import *
 def bt_click():
-    print("Clique do botão para iniciar a gravação")
 
     import pyautogui
     import cv2
@@ -8,7 +7,7 @@ def bt_click():
 
     resolution = (1920, 1080)
     codec = cv2.VideoWriter_fourcc(*"XVID")
-    filename = "Gravacao.avi"
+    filename = "video.avi"
     fps = 60.0
 
     out = cv2.VideoWriter(filename, codec, fps, resolution)
