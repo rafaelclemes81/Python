@@ -1,5 +1,3 @@
-''' Jogo Batalha Naval
-
-testando git pull'''
+''' Jogo Batalha Naval '''
 
 
